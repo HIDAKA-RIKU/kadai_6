@@ -1,0 +1,16 @@
+
+.EventText {
+    font-size: 32px;
+    font-weight: 600;
+    margin: 0;
+    padding: 20px 0;
+    background-color: aqua;
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+.EventText_2 {
+    font-size: 18px;
+    margin-top: 30px;
+    text-align: center;
+}
